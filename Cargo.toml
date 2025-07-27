@@ -3,6 +3,6 @@ name = "sringbuf"
 version = "0.1.0"
 edition = "2024"
 license = "MIT"
-description = "A simple ring buffer implementation"
+description = "A simple FIFO ring buffer implementation"
 
 [dependencies]

@@ -1,3 +1,3 @@
 # ringbuf
 
-Simple ring buffer implementation in Rust
+Simple stack FIFO ring buffer implementation in Rust
